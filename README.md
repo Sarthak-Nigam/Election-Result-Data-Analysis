@@ -2,14 +2,14 @@
 This project provides a detailed analysis of the 2024 election results, focusing on key metrics such as the margin of victory, the number of seats won by leading parties, and the performance of trailing parties. Through data visualization and statistical analysis, the project offers insights into the political landscape and voter behavior during this significant election year.
 
 <h2>Table of Contents</h2>
-1. Overview
-2. Project Structure
-3. Data Source
-4. Installation
-5. Usage
-6. Key Insights
-7. Contributing
-8. License
+1. Overview <br>
+2. Project Structure <br>
+3. Data Source <br>
+4. Installation <br>
+5. Usage <br>
+6. Key Insights <br>
+7. Contributing <br>
+8. License <br>
 
 <h2>Project Structure</h2>
 bash
@@ -57,9 +57,9 @@ Explore the analysis:
 The notebook contains all the analysis and visualizations. You can run the cells sequentially to reproduce the results or modify the code to explore additional insights.
 
 <h2>Key Insights</h2>
-Top Leading Parties: The analysis identifies the parties with the highest vote margins and the most seats won.<br>
-Trailing Parties: It also highlights the parties that frequently lost, offering insights into electoral weaknesses.<br>
-Victory Margins: The average margin of victory across constituencies provides a measure of competitiveness in the election.<br>
+1. Top Leading Parties: The analysis identifies the parties with the highest vote margins and the most seats won.<br>
+2. Trailing Parties: It also highlights the parties that frequently lost, offering insights into electoral weaknesses.<br>
+3. Victory Margins: The average margin of victory across constituencies provides a measure of competitiveness in the election.<br>
 
 <h2>Contributing</h2>
 Contributions are welcome! If you have any suggestions, improvements, or new features to add, feel free to open an issue or submit a pull request.
