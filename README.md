@@ -1,7 +1,7 @@
-*Overview*
+<h1>Overview</h1> <br>
 This project provides a detailed analysis of the 2024 election results, focusing on key metrics such as the margin of victory, the number of seats won by leading parties, and the performance of trailing parties. Through data visualization and statistical analysis, the project offers insights into the political landscape and voter behavior during this significant election year.
 
-#Table of Contents#
+<h2>Table of Contents</h2>
 Overview
 Project Structure
 Data Source
