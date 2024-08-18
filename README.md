@@ -15,16 +15,14 @@ This project provides a detailed analysis of the 2024 election results, focusing
 8. License <br>
 
 <h2>Project Structure</h2>
-bash
-Copy code
-├── data
-│   └── election_results_2024.csv  # Dataset used for the analysis
-├── notebooks
-│   ├── election_analysis.ipynb    # Jupyter Notebook with the analysis code
-├── images
-│   └── plots                      # Folder containing generated plots
-├── README.md                      # Project README file
-└── requirements.txt               # Required Python packages
+├── data<br>
+│   └── election_results_2024.csv  # Dataset used for the analysis<br>
+├── notebooks<br>
+│   ├── election_analysis.ipynb    # Jupyter Notebook with the analysis code<br>
+├── images<br>
+│   └── plots                      # Folder containing generated plots<br>
+├── README.md                      # Project README file<br>
+└── requirements.txt               # Required Python packages<br>
 
 <h2>Data Source</h2>
 The dataset used in this project contains election results from the 2024 elections. It includes details such as the leading party, trailing party, margin of victory, and the number of seats won or lost.
