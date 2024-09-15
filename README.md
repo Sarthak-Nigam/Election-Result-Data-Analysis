@@ -67,3 +67,9 @@ Contributions are welcome! If you have any suggestions, improvements, or new fea
 
 <h2>License</h2>
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Connect with Me
+Feel free to reach out for questions, feedback, or collaboration opportunities!
+
+GitHub: https://github.com/Sarthak-Nigam/  <br>
+LinkedIn: https://www.linkedin.com/in/nigamsarthak/
