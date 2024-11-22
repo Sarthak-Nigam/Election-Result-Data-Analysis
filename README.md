@@ -32,27 +32,19 @@ To replicate this analysis on your local machine, follow these steps:
 
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/election-results-analysis-2024.git
+git clone https://github.com/Sarthak-Nigam/election-results-analysis-2024.git
 cd election-results-analysis-2024
 Create a virtual environment and activate it:
 
-bash
-Copy code
 python -m venv env
 source env/bin/activate  # On Windows, use `env\Scripts\activate`
 Install the required dependencies:
 
-bash
-Copy code
 pip install -r requirements.txt
 Usage
 Run the Jupyter Notebook:
 Launch the Jupyter Notebook by running the following command:
 
-bash
-Copy code
 jupyter notebook notebooks/election_analysis.ipynb
 Explore the analysis:
 The notebook contains all the analysis and visualizations. You can run the cells sequentially to reproduce the results or modify the code to explore additional insights.
